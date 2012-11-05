@@ -25,6 +25,7 @@ group :test do
 	gem 'rspec-rails', '2.9.0'
 	gem 'guard-spork', '0.3.2'
   gem 'spork', '0.9.0'
+  gem 'factory_girl_rails'
 	# System-dependent gems
 	gem 'rb-fsevent', :require => false 
 	gem 'growl', '1.0.3'
